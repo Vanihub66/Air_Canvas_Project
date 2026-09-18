@@ -16,10 +16,10 @@ BRUSH_SIZE = 7
 ERASER_SIZE = 50
 
 COLORS = {
-    "ICE BLUE": (255, 180, 70),
-    "PURPLE": (180, 70, 255),
-    "PINK": (255, 80, 180),
-    "GREEN": (80, 220, 100)
+    "ICE BLUE": (255, 220, 0),
+    "PURPLE": (255, 0, 180),
+    "PINK": (180, 0, 255),
+    "GREEN": (0, 255, 0)
 }
 
 current_color = "ICE BLUE"
